@@ -15,7 +15,7 @@ return Application::configure(basePath: dirname(__DIR__))
     ->withMiddleware(function (Middleware $middleware) {
         $middleware->append([
             ProtectAgainstSpam::class,
-            AddCspHeaders::class,
+            // AddCspHeaders::class,
         ]);
     })
     ->withExceptions(function (Exceptions $exceptions) {
