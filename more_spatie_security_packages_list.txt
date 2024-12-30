@@ -1,0 +1,11 @@
+====================| Spatie packages |===============================
+1] spatie/laravel-cors => Configures Cross-Origin Resource Sharing to manage cross-domain requests.
+2] spatie/laravel-backup => Simplifies creating backups of your application's files and database.
+3] spatie/laravel-permission => Manages user roles and permissions for access control.
+4] spatie/ssl-certificate => Ensures secure communication over HTTPS with a valid SSL certificate.
+5] spatie/guzzle-rate-limiter-middleware => Limits outgoing HTTP requests to prevent overwhelming external services.
+6] spatie/laravel-rate-limited-job-middleware => Rate limits queued job execution to prevent overload.
+
+====================| other security packages |===============================
+1] antonioribeiro/firewall: protects your Laravel app by controlling route access based on IP addresses, countries, or hostnames.
+github_url => https://github.com/antonioribeiro/firewall
