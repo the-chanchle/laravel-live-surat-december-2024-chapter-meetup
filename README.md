@@ -1,3 +1,5 @@
+![alt text](https://github.com/the-chanchle/laravel-live-surat-december-2024-chapter-meetup/blob/main/public/images/GfoAnJ5bQAARQT_.jpg)
+
 # Laravel Live Surat December 2024 Chapter Meetup
 ## FORTIFY LARAVEL WITH SPATIE | LARAVEL 11
 
